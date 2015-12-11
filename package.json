@@ -1,0 +1,32 @@
+{
+  "name": "dogyears",
+  "version": "0.0.1",
+  "description": "This is a module for calculating dog years",
+  "main": "lib/dogyears.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfekke/dogyears.git"
+  },
+  "keywords": [
+    "dogs",
+    "dog",
+    "years",
+    "canine",
+    "human",
+    "dogyears",
+    "humanyears"
+  ],
+  "author": "David Fekke <davidfekke@gmail.com> (http://fek.io)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/davidfekke/dogyears/issues"
+  },
+  "homepage": "https://github.com/davidfekke/dogyears#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
