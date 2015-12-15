@@ -10,5 +10,3 @@ describe('Test DogYears module', function() {
 		expect(64.00810235249003).to.equal(result);
 	});
 });
-
-//console.log(dogYears);
