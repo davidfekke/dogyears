@@ -22,7 +22,7 @@ gulp.task('nsp', function (cb) {
 });
 
 gulp.task('pre-test', function () {
-    return gulp.src('lib\**\*.js')
+    return gulp.src('lib/**/dogyears.js')
     .pipe(istanbul({
         includeUntested: true
     }))
@@ -54,4 +54,4 @@ gulp.task('coveralls', ['test'], function () {
 });
 
 gulp.task('prepublish', ['nsp']);
-gulp.task('default', ['static', 'test']);
+gulp.task('default', ['static', 'test', 'coveralls']);
