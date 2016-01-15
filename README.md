@@ -1,6 +1,9 @@
 # DogYears
 
 [![Build Status](https://travis-ci.org/davidfekke/dogyears.svg?branch=master)](https://travis-ci.org/davidfekke/dogyears)
+[![NPM version][npm-image]][npm-url] 
+[![Downloads][downloads-image]][npm-url]
+[![Coveralls Status][coveralls-image]][coveralls-url]
 [![npm version](https://badge.fury.io/js/dogyears.svg)](https://badge.fury.io/js/dogyears)
 [![Node v5.0](http://img.shields.io/badge/node-v5.0-brightgreen.svg)](https://nodejs.org)
 [![Node v4.0](http://img.shields.io/badge/node-v4.0-green.svg)](https://nodejs.org)
