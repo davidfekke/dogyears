@@ -1,6 +1,6 @@
 {
   "name": "dogyears",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "This is a module for calculating dog years",
   "main": "lib/dogyears.js",
   "scripts": {
